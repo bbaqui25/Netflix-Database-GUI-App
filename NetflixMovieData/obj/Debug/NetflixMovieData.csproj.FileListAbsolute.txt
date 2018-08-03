@@ -1,0 +1,9 @@
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\bin\Debug\NetflixMovieData.exe.config
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\bin\Debug\NetflixMovieData.exe
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\bin\Debug\NetflixMovieData.pdb
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\obj\Debug\NetflixMovieData.csprojResolveAssemblyReference.cache
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\obj\Debug\NetflixMovieData.Properties.Resources.resources
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\obj\Debug\NetflixMovieData.csproj.GenerateResource.Cache
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\obj\Debug\NetflixMovieData.exe
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\obj\Debug\NetflixMovieData.pdb
+C:\Users\bushrabaqui\Desktop\NetflixMovieData\NetflixMovieData\obj\Debug\NetflixMovieData.Form1.resources
